@@ -15,3 +15,5 @@ describe('reducer', function() {
     });
   });
 });
+
+console.log("The total is ${totalBatteries}")
